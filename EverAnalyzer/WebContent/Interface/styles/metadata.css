@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.metadata{
+	padding-left: 6px; 
+	padding-right: 6px;
+	background-color: gray;
+}
+
+.datasets{
+	margin-top: 12px; 
+	margin-bottom: 6px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.dataset{
+	background-color: lightgray;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
